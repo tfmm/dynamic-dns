@@ -1,0 +1,6 @@
+{
+	"Username": "example",
+	"Password": "example",
+	"Hostname": "sub.example.com",
+	"DNSServer": "dns.example.com"
+}
